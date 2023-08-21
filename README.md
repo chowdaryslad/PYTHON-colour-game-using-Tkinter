@@ -2,11 +2,36 @@
 
 ![Screenshot (103)](https://user-images.githubusercontent.com/98008756/175257118-c0265519-399c-40dd-83ce-542dabccddd8.png)
 
-# Press Enter to Start the Game
-And the count down Starts
-![Screenshot (105)](https://user-images.githubusercontent.com/98008756/175257116-3f82b36c-93b4-44d4-be8a-7d30c92e2ebb.png)
+## Getting Started 🎧
 
-# Game Over
+This project utilized the benefits of technology such as Python.
 
-![Screenshot (104)](https://user-images.githubusercontent.com/98008756/175257106-db2f7393-cf01-414c-aa18-a27abbee2579.png)
+It's better if we familiarize ourselves with these technologies. 
+
+### Prerequisites
+[![Stay Motivated](https://img.shields.io/badge/Stay-Motivated-teal.svg?style=for-the-badge)](https://www.twitter.com/chowdarys_lad/) [![Think Big](https://img.shields.io/badge/Think-Big-orange.svg?style=for-the-badge)](https://www.linkedin.com/in/chowdaryslad/) [![Work Hard](https://img.shields.io/badge/Work-Hard-blue.svg?style=for-the-badge)](https://github.com/chowdaryslad)
+
+There is no need for any software for running the project! The editor and package manager are all at your discretion. 
+
+## Installing☔
+
+It is pretty straightforward :
+
+**Clone the repo:** 
+```
+git clone <repository Url>
+```
+
+## Deployment 💡
+[![Stay Motivated](https://img.shields.io/badge/Stay-Motivated-teal.svg?style=for-the-badge)](https://www.twitter.com/chowdarys_lad/) [![Think Big](https://img.shields.io/badge/Think-Big-orange.svg?style=for-the-badge)](https://www.linkedin.com/in/chowdaryslad/) [![Work Hard](https://img.shields.io/badge/Work-Hard-blue.svg?style=for-the-badge)](https://github.com/chowdaryslad)
+
+**Run the application** 
+```
+Use Python.
+```
+
+## Acknowledgments 💖
+
+* To my family👪  and friends 👫 who always kept me motivated.
+* To the community of computer science 💻.
 
